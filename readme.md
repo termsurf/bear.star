@@ -7,7 +7,7 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/bear.note/blob/make/view/bear.svg?raw=true' height='192'>
+  <img src='https://github.com/termsurf/bear.note/blob/make/view/bear.svg?raw=true' height='256'>
 </p>
 
 <h3 align='center'>bear.note</h3>
