@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/bear.note/blob/make/view/bear.svg?raw=true' height='256'>
+  <img src='https://github.com/termsurf/bear.leaf/blob/make/view/bear.svg?raw=true' height='256'>
 </p>
 
-<h3 align='center'>bear.note</h3>
+<h3 align='center'>bear.leaf</h3>
 <p align='center'>
-  The BaseNote Request Library
+  The SeedLeaf Request Library
 </p>
 
 <br/>
